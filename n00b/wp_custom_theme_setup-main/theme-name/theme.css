@@ -1,0 +1,126 @@
+* {
+    background-color: #0827F5;
+}
+
+
+
+h1, h2, h3, h4, input, title {                          /*center text*/
+    text-align: center;
+}
+
+body, h1, h2, h3, h4, li, ol, ul, span, p {               /*standard borders; custom borders specfied below*/
+    border: solid;
+    border-width: 3px;
+    border-color: black;
+    margin: 2%;
+}
+
+h3, li, ol, ul, span, p, cite {                                 /*small padding */
+    padding: 2%;
+}
+
+h1, h2, h3, h4, input, title {                                     /*boldify*/
+    font-weight: bold;
+}
+
+body {
+    border-radius: 200px;
+    border-width: 30px;
+}
+
+h1 {
+    font-size: 45px;
+    color: fuchsia;
+    background-color: springgreen;
+    border-radius: 25px;
+    border-width: 10px;
+    padding: 7%;
+}
+
+h2 {
+    font-size: xx-large;
+    color: #f5ff00;
+    background-color: #be03fd;
+    border-radius: 15px;
+    padding: 4%;
+}
+
+h3 {
+    font-size: x-large;
+    color: #01fe01;
+    background-color: #ff073a;
+    border-radius: 8px;
+}
+
+h4 {
+    font-size: x-large;
+    border: 0;
+}
+
+li {
+    background-color: #40A4FF;
+    border-radius: 15px;
+}
+
+ol, ul {
+    background-color: orange;
+    border-radius: 25px;
+    border-width: 5px;
+}
+
+label {
+    background-color: #8c00fc;
+    font-size: large;
+}
+
+input {
+    background-color: hotpink;
+    font-size: xx-large;
+    padding: 30px 150px 30px 150px;
+}
+
+header, footer {                                        /*hopefully my actual task*/
+    align-content: stretch;
+    justify-content: safe;
+}
+
+nav {
+    inset-inline: 10px;
+}
+
+
+p {                                                     /*add to the cancer*/
+    background-color: #3aff3a;
+    border-radius: 15px;
+}
+
+span {
+    background-color: #48e97e;
+    border-radius: 50%;
+}
+
+title {                                             /*let's see how much i can mess up the title colors */
+    color: red;
+    flood-color: blueviolet;
+    caret-color: cadetblue;
+    outline-color: darkgoldenrod;
+    background-color: darkgreen;
+    lighting-color: darkkhaki;
+    border-color: blue;
+}
+
+a {
+    font-style: italic;
+    color: yellow;
+}
+
+cite {
+    background-color: transparent;
+    border-bottom: beige;
+    border-radius: 30%;
+    border: solid;
+    border-width: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}

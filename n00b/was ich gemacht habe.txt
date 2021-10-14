@@ -1,0 +1,12 @@
+1) CSS aus letztem Projekt übernommen, um Zeit zu sparen
+- Fehler korrigiert
+- Unkorrigierbares gelöscht, wenn möglich
+- zusätzliche optionen erstellt, da ich zb kaum span tags etc benutze, da mein cms ja für möglichst viele websites benutzt werden können soll und es mehr leute als nur mich gibt ;)
+
+2) fancy-shmancy Linie unter meinen Namen gesetzt
+
+3) search site versucht hinzuzufügen (2 Versuche), fail.
+
+4) aus frust ein rätsel implementiert
+
+5) cpt recherchiert: https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/
